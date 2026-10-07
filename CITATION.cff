@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "STRIDE-Z: a sliding-window persistent-homology descriptor of bilateral stride-interval geometry"
+type: software
+version: "0.3.1"
+date-released: "2026-10-07"
+license: MIT
+authors:
+  - family-names: "Abdullayev"
+    given-names: "Omar"
+    email: "omaraabdul10@gmail.com"
+    affiliation: "Secondary Education Division, School No. 39 named after M. C. Pashayev, Ganja, Azerbaijan"
+repository-code: "https://github.com/YOUR-USERNAME/stride-z"
+keywords:
+  - gait analysis
+  - bilateral coordination
+  - persistent homology
+  - topological data analysis
+  - Vietoris-Rips
+  - reproducible research

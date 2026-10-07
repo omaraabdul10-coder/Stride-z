@@ -1,0 +1,14 @@
+{
+  "title": "STRIDE-Z: a sliding-window persistent-homology descriptor of bilateral stride-interval geometry",
+  "upload_type": "software",
+  "description": "Research code for STRIDE-Z v0.3.1: a two-dimensional point-cloud representation of paired left/right stride intervals, a Vietoris-Rips H1 persistent-homology computation (NumPy implementation), the Coordination Loop Persistence Ratio (CLPR), a synthetic benchmark, and a feasibility analysis on the PhysioNet Gait in Neurodegenerative Disease Database. Research code; not a clinical tool.",
+  "creators": [
+    {
+      "name": "Abdullayev, Omar",
+      "affiliation": "Secondary Education Division, School No. 39 named after M. C. Pashayev, Ganja, Azerbaijan"
+    }
+  ],
+  "license": "MIT",
+  "version": "0.3.1",
+  "keywords": ["gait analysis", "persistent homology", "topological data analysis", "Vietoris-Rips", "reproducible research"]
+}
